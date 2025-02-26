@@ -1,11 +1,12 @@
 Emily Tango-Lee
+
 AI & NLP Engineer | Cloud-Based Machine Learning | Multi-Modal Computer Vision
 📍 Wilmington, NC | ✉️ etangolee@gmail.com | 🔗 LinkedIn
 
-🚀 About Me
+About Me
 I’m a Data Scientist and AI Engineer specializing in NLP, machine learning, and cloud-based AI. My background spans media broadcasting, digital analytics, and business intelligence, evolving into AI-driven automation and data science research. I’ve worked on LLM optimization, computer vision for environmental monitoring, and predictive modeling for real-world impact. My current role is focused on NLP & Large Language Models (LLMs): Optimizing token efficiency, structured prompt engineering. I also recently compelted a project using Computer Vision: Object detection & segmentation for coastal erosion analysis (NOAA-funded research). I am passionate about Cloud-Based AI & MLOps: Building scalable AI solutions using AWS, GCP, and Azure
 
-🌐 Featured Projects
+Featured Projects
 USGS API & Nowcast Model 🌊 (Environmental AI)
 📌 Goal: Automate real-time water quality predictions using USGS API data.
 🔹 Integrated USGS API to enable live environmental monitoring
@@ -46,5 +47,3 @@ B.A. in Documentary Production, Psychology Minor – University of North Carolin
 
 Let’s Connect!
 I’m actively exploring collaborations and full-time opportunities in AI, NLP, and machine learning. If you’re working on cutting-edge AI, multi-modal ML, or cloud-based automation, let’s chat!
-
-📩 Email: etangolee@gmail.com | 🔗 LinkedIn

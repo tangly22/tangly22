@@ -29,6 +29,7 @@ Tech Stack:
 ---
 
 **Professional Experience**
+
 Data Science and NLP (2023 - Present)
 - Integrating end-to-end LLMs production workflows. Testing and automating architecture and evaluating cost analysis.
 

@@ -21,6 +21,10 @@ Tech Stack: Python, OpenCV, Scikit-image
 Analyzed neuroimaging data to predict cognitive patterns. Applied ML models to large-scale fMRI datasets.
 Tech Stack: Python, Nilearn, NumPy, Matplotlib, Scikit-learn
 
+**Google Places API** 
+Designed API for business searchs, creating heatmaps based on weights.
+Tech Stack:
+
 ---
 
 **Professional Experience**

@@ -4,7 +4,7 @@
 
 Wilmington, NC | etangolee@gmail.com | [LinkedIn](https://www.linkedin.com/in/emtango/)
 
-As an experienced Data Scientist (ENTJ-A) specializing in NLP, machine learning, and AI-driven analytics, I build intelligent data pipelines, optimize AI models, and leverage behavioral insights for impactful decision-making. My background includes extensive work in business intelligence, cloud-based analytics, and structured prompt engineering for SaaS integration. During graduate school, I contributed to NOAA-funded coastal engineering research, collaborating with NOAA, SECOORA, and USGS on AI-powered coastal erosion analysis. I developed innovative computer vision solutions using object detection and segmentation techniques, transforming unstructured environmental data into actionable insights.
+As an experienced Data Scientist specializing in NLP, machine learning, and AI-driven analytics, I build intelligent data pipelines, optimize AI models, and leverage behavioral insights for impactful decision-making. My background includes extensive work in business intelligence, cloud-based analytics, and structured prompt engineering for SaaS integration. During graduate school, I contributed to NOAA-funded coastal engineering research, collaborating with NOAA, SECOORA, and USGS on AI-powered coastal erosion analysis. I developed innovative computer vision solutions using object detection and segmentation techniques, transforming unstructured environmental data into actionable insights.
 
 ---
 

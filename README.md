@@ -12,7 +12,7 @@ As an experienced Data Scientist specializing in NLP, machine learning, and AI-d
 Automated water level prediction validation using APIs for USGS model data and NOAA webcam data. 
 Tech Stack:
 
-**Coastal Erosion Monitoring with Copmputer Vision** (NOAA-Funded Research)
+**Coastal Erosion Monitoring with Computer Vision** (NOAA-Funded Research)
 Implemented AI image segmentation for shoreline tracking. Optimized computer vision processing workflows and designed custom training datasets.
 Tech Stack: Python, OpenCV, Scikit-image
 

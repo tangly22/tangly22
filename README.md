@@ -1,8 +1,10 @@
-**Emily Tango**
+**Emily Tango Lee**
 
-**Data Scientist | NLP & Machine Learning | Computer Vision | Cloud-Based MLOps**
+Data Scientist | AI Engineer | Cloud-Based MLOps 
 
-As an experienced Data Scientist specializing in NLP, machine learning, and AI-driven analytics, I build intelligent data pipelines, optimize AI models, and leverage behavioral insights in big data. My background includes extensive work in business intelligence, cloud-based analytics, and structured prompt engineering for AI SaaS integration. During graduate school, I contributed to NOAA-funded coastal engineering research, collaborating with NOAA, SECOORA, and USGS on AI-powered coastal erosion analysis. I developed innovative computer vision solutions using object detection and segmentation techniques, transforming unstructured environmental data into actionable insights. In my free time I like to conduct research and write up my findings for my local community as a data science journalist. 
+Bringing expertise in data architecture, engineering, and product management, I build scalable data platforms and machine learning solutions for SaaS and enterprise environments. I deliver insights through BI dashboards, KPI reporting, and statistical models, while also designing AI tools that integrate seamlessly into business operations. My work spans from forecasting and optimization models to generative AI and NLP applications, with a focus on reducing tool complexity, improving adoption, and delivering measurable business impact.
+
+With experience in insurance, financial data reporting, government-funded AI research in nuclear energy and NOAA/USGS environmental modeling, manufacturing automation, and live consumer analytics that drove millions in hourly retail sales, I bring a strong understanding of regulated and high-volume industries. By uniting business intelligence, hands-on modeling, technical architecture, and product-minded deployment, I enable organizations to make faster, more reliable decisions and remain competitive in rapidly evolving markets.
 
 ---
 
@@ -24,9 +26,3 @@ Tech Stack: Python, Nilearn, NumPy, Matplotlib, Scikit-learn
 Designed API for business searchs, creating heatmaps based on weights.
 Tech Stack:
 
----
-
-**Technical & Industry Expertise**
-- Data Science: NLP, ML, LLM Optimization, Computer Vision, Cloud-Based AI (AWS, GCP, Azure), MLOps
-- Analytics & Business Intelligence: Consumer Behavior, SEO, Digital Marketing, Merchandising, and Supply Chain Optimization for perishable goods.
-- Experimental Research Design: Causal Inference, Bayesian Statistics, A/B Testing, Time Series Analysis
